@@ -32,8 +32,11 @@
       // Create a marker and set its position.
       var marker = new google.maps.Marker({
         map: map,
-        position: center,
-        title: 'RBKC'
+        position: {lat: 51.491541, lng: -0.176366}
+      });
+      var marker = new google.maps.Marker({
+        map: map,
+        position: center
       });
     }
   </script>
