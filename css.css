@@ -1,0 +1,42 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+margins {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+a:link {
+  text-decoration: none;
+  color: #000;
+}
+a:visited {
+  text-decoration: none;
+  color: #000;
+}
+a:hover {
+  text-decoration: none;
+  color: #474747;
+}
+a:active {
+  text-decoration: none;
+  color: #474747;
+}
+a.white:link {
+  text-decoration: none;
+  color: #fff;
+}
+a.white:visited {
+  text-decoration: none;
+  color: #fff;
+}
+a.white:hover {
+  text-decoration: none;
+  color: #878787;
+}
+a.white:active {
+  text-decoration: none;
+  color: #878787;
+}
+#map {
+  height: 100%;
+}
