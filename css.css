@@ -37,8 +37,12 @@ a.white:active {
   text-decoration: none;
   color: #878787;
 }
-#map {
+#mapcontainer {
   height: 95%;
+}
+#map {
+  height: 100%;
+  width: 100%;
 }
 #title {
   height: 5%;
